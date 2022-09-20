@@ -1,0 +1,12 @@
+.hg-theme-default .hg-button {
+    color: #ffffff !important;
+    background-color: #3a3a42 !important;
+    border: 1px solid #000000 !important;
+}
+
+.iScrollLoneScrollbar {
+    right: 0px !important;
+}
+.iScrollIndicator {
+    background-color: #049be2 !important;
+}
